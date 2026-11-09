@@ -1,0 +1,10 @@
+﻿# Table S7. Urban land mapped as non-urban in the next epoch (km² and % of urban area at the start of the interval; correction mask)
+Interval,Final maps (km²),Final maps (%),Raw maps (km²),Raw maps (%)
+1990–1995,7.33,19.6,15.40,32.2
+1995–2000,6.90,17.5,13.80,30.8
+2000–2005,4.42,8.6,7.73,14.4
+2005–2010,13.34,20.0,21.56,29.4
+2010–2015,14.14,17.5,54.95,51.1
+2015–2020,8.80,10.1,7.80,11.2
+2020–2025,8.40,8.9,23.88,26.1
+"Unstable cells (urban → non-urban → urban), final maps, modelling mask",27.71,,–,

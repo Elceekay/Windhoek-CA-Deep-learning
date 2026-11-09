@@ -1,0 +1,16 @@
+# Package versions of the Google Colab environment at release (6 November 2026; Python 3.13.18).
+# The analyses were run in Colab sessions between October and November 2026. Colab updates its packages
+# periodically, so earlier sessions may have used slightly older versions of these packages.
+# All runs used a standard CPU runtime except the three CA-U-Net robustness runs (Table S12), which used a T4 GPU.
+numpy==2.4.6
+pandas==2.2.3
+scipy==1.16.3
+scikit-learn==1.6.1
+tensorflow==2.21.0
+keras==3.13.2
+rasterio==1.5.2
+geopandas==1.2.0
+shapely==2.2.0
+pyproj==3.8.0
+matplotlib==3.10.0
+openpyxl==3.1.5

@@ -1,0 +1,10 @@
+﻿"# Table S4. Calibrated (error-adjusted) class areas (km²) from the original reference sample with the classical calibration estimator (Czaplewski & Catts, 1992), 95% bootstrap percentile CIs, and area-weighted OA. Water held at its mapped area. Reported for transparency only: with about 50 points per class the estimates are too imprecise to be informative, so the manuscript uses the independent 2025 sample (Table S8) for error-adjusted areas"
+Epoch,Urban,Vegetation,Bare Ground,Area-weighted OA (%)
+1990,40.33 (37.86–44.17),448.56 (429.74–479.41),43.74 (13.18–62.51),96.2 (90.4–99.7)
+1995,40.58 (27.17–42.34),482.53 (452.11–503.93),7.99 (0.00–37.55),92.6 (84.7–98.3)
+2000,51.94 (41.79–51.94),461.77 (428.22–487.78),15.86 (0.00–49.41),92.6 (84.8–98.1)
+2005,60.76 (34.25–73.57),454.85 (424.75–486.80),11.35 (0.00–39.22),91.0 (83.2–97.9)
+2010,73.33 (42.10–96.66),396.82 (373.50–429.90),62.12 (38.27–78.23),92.9 (87.2–97.0)
+2015,69.51 (37.97–88.18),449.03 (411.61–490.93),14.15 (0.00–42.79),91.3 (82.9–98.1)
+2020,87.58 (68.17–98.77),371.58 (354.08–400.09),70.22 (47.46–84.02),95.8 (90.9–98.8)
+2025,56.65 (0.00–98.36),476.69 (417.85–533.34),0.00 (0.00–34.77),78.6 (64.0–89.8)

@@ -1,0 +1,10 @@
+﻿"# Table 3: Overall accuracy (%) at the original reference points, by map product and epoch"
+Epoch (sensor),Original assessmentᵃ,Raw RF map (P1),Automated (P2),Final map (P3),95% CI (P3),Points
+1990 (TM),92.5ᵇ,–ᵈ,96.5,95.5,±2.9,199
+1995 (TM),92.0,93.8,96.9,97.4,±2.2,195
+2000 (ETM+),93.0,92.4,95.9,96.4,±2.5,197
+2005 (ETM+),94.5,93.0,96.0,96.5,±2.5,199
+2010 (ETM+),95.0,93.9,94.9,93.4,±3.4,198
+2015 (OLI),90.0,92.4,96.4,96.5,±2.5,198
+2020 (OLI),92.0,94.0,97.0,96.5,±2.5,199
+2025 (OLI-2),90.0ᶜ,87.4,92.4,88.9,±4.2,199

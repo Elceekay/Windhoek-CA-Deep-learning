@@ -1,0 +1,18 @@
+﻿"# Table S12. Robustness of the main test (withheld 2015–2020 transition; seed 42 unless stated): FoM with 95% spatial block-bootstrap CI (4 km blocks, 2,000 resamples) and difference from the logistic-regression CA of the same experiment"
+Experiment,Method,FoM (95% CI),Hits (km²),Difference from logistic-regression CA (95% CI)
+"(a) Automated (P2) maps, no manual editing; observed gain 23.81 km²",Logistic-regression CA,0.273 (0.204–0.321),10.20,–
+,CA-LSTM-CNN,0.275 (0.213–0.324),10.27,+0.002 (−0.025 to +0.035)
+,CA-U-Net,0.257 (0.184–0.311),9.72,−0.016 (−0.038 to +0.002)
+,CA-CNN,0.233 (0.160–0.288),9.01,−0.039 (−0.069 to −0.016)*
+,Neighbourhood rule,0.233 (0.176–0.272),8.99,−0.040 (−0.071 to −0.009)*
+(b) Four-cell buffer at block boundaries (final maps); observed gain 15.54 km²,Logistic-regression CA,0.207 (0.151–0.249),5.32,–
+,CA-U-Net,0.204 (0.149–0.245),5.27,−0.003 (−0.013 to +0.009)
+,CA-LSTM-CNN,0.198 (0.147–0.239),5.13,−0.009 (−0.021 to +0.003)
+,CA-CNN,0.196 (0.142–0.239),5.09,−0.011 (−0.020 to −0.001)*
+"(c) Equal training transitions (2000–2005 and 2005–2010, as for the CA-LSTM-CNN; final maps)",Logistic-regression CA,0.208 (0.153–0.249),5.35,–
+,"CA-CNN, seed 42",0.200 (0.141–0.246),5.19,−0.008 (−0.020 to +0.004)
+,"CA-CNN, seed 1",0.188 (0.132–0.233),4.91,−0.020 (−0.043 to −0.001)*
+,"CA-CNN, seed 2",0.200 (0.140–0.245),5.17,−0.008 (−0.022 to +0.005)
+,"CA-CNN, seed 3",0.195 (0.138–0.238),5.06,−0.014 (−0.026 to −0.004)*
+,"CA-CNN, mean ± SD of four seeds",0.196 ± 0.006,–,–
+,"CA-U-Net, seed 42",0.195 (0.139–0.240),5.08,−0.013 (−0.030 to +0.002)

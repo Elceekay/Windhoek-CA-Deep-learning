@@ -1,0 +1,6 @@
+﻿# Table S10. 2010 sensitivity test (seed 42): FoM on the 2020–2025 test transition with and without the 2010 epoch
+Model,With 2010 (five training transitions),"Without 2010 (three transitions, 1990–2005)",Difference
+CA-CNN,0.242,0.206,−0.036
+Logistic-regression CA,0.226,0.225,−0.001
+CA-CNN − logistic-regression CA (without 2010),,"−0.018 [−0.031, −0.007]",
+CA-LSTM-CNN,0.221,n.a. (requires three consecutive epochs),

@@ -1,0 +1,6 @@
+﻿"# Table 5: Simulated urban area (km²) within the modelling mask under conditional demand scenarios starting from the 2020 modelling-mask area (94.81 km²); independent 2025 municipal-extent estimate: 96.43 km² (95% CI 79.92–112.94), shown only as a plausibility check because it uses a different spatial denominator"
+Scenario,Rate (km² yr⁻¹),2020,2025,2030,2035,2040,2045,2050,Change 2020–2050
+"Trend, low",1.72,94.8,103.4,112.1,120.7,129.3,137.9,146.5,+51.7 (+54.5%)
+"Trend, central",2.12,94.8,105.4,116.0,126.7,137.3,147.9,158.5,+63.7 (+67.2%)
+"Trend, high",2.52,94.8,107.4,120.0,132.6,145.2,157.9,170.5,+75.7 (+79.8%)
+Fast growth (2000–2005 rate),3.10,94.8,110.3,125.8,141.3,156.8,172.3,187.8,+93.0 (+98.1%)

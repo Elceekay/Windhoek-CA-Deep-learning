@@ -1,0 +1,10 @@
+﻿"# Table S3. (a) Effect of each correction stage by epoch (pixels valid in both the raw and the final map of the epoch): urban area, share of pixels changed, urban-area change and overall accuracy at the original reference points (P1 raw RF; P2 automated: majority filter + rules; P3 final after manual editing)"
+Epoch,Urban P1 (km²),Urban P2,Urban P3,Pixels P1→P2 (%),Pixels P2→P3 (%),Pixels P1→P3 (%),Δ urban P1→P2,Δ urban P2→P3,OA P1 (%),OA P2,OA P3
+1990,48.26,45.49,37.82,5.0,5.4,4.8,-2.78,-7.66,–,96.5,95.5
+1995,45.14,41.96,39.66,6.9,5.5,9.7,-3.17,-2.30,93.8,96.9,97.4
+2000,53.95,51.20,51.85,7.2,7.8,12.3,-2.75,+0.65,92.4,95.9,96.4
+2005,73.96,67.54,67.56,7.2,7.0,11.8,-6.43,+0.02,93.0,96.0,96.5
+2010,108.55,107.96,81.49,5.0,13.9,15.3,-0.59,-26.48,93.9,94.9,93.4
+2015,70.36,71.50,88.02,6.4,8.5,11.9,+1.14,+16.52,92.4,96.4,96.5
+2020,91.75,90.09,94.15,7.7,3.4,9.2,-1.66,+4.07,94.0,97.0,96.5
+2025,76.70,77.54,116.80,7.0,15.4,18.6,+0.84,+39.26,87.4,92.4,88.9

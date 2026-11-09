@@ -1,0 +1,6 @@
+﻿"# Table 2: Mapped class areas (km²) in 1990 and 2025 within the municipal extent, and error-adjusted 2025 area estimates from the independent stratified sample"
+Class,1990 mapped,2025 mapped,"2025 error-adjusted, independent sample (95% CI)","Net change 1990–2025, mapped"
+Urban,37.86,117.41,96.43 (79.92–112.94),+79.55 (+210.1%)
+Vegetation,432.26,367.85,340.91 (308.41–373.41)ᵃ,−64.41 (−14.9%)
+Bare Ground,62.51,48.08,91.04 (61.66–120.42)ᵃ,−14.43 (−23.1%)
+Water,1.28,0.64,5.60 (0–13.02)ᵃ,−0.64 (−50.0%)

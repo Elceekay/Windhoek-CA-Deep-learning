@@ -1,0 +1,4 @@
+﻿"# Table S14. Urban area (km²) in 1990–2020 from the automated (P2) and final (P3) maps on the common mask (cells valid in all raw, automated and final maps; 531.29 km²), with the 1990–2020 OLS trend and the central 2050 urban area it implies (2020 value + 30 × slope)"
+Series,1990,1995,2000,2005,2010,2015,2020,Slope (km² yr⁻¹),R²,Implied 2050 (km²)
+Automated (P2),45.08,41.63,50.81,66.84,106.99,70.82,89.89,1.78,0.63,143.2
+Final (P3),37.46,39.34,51.44,66.84,80.58,87.30,93.96,2.10,0.97,157.1

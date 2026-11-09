@@ -1,0 +1,8 @@
+﻿# Table S11. (b) Pearson correlations between the six predictors (training samples)
+,Urban 3 × 3,Urban 9 × 9,Vegetation 9 × 9,Bare 9 × 9,Dist. urban,Dist. water
+Urban 3 × 3,1.00,0.82,-0.54,0.01,-0.32,-0.02
+Urban 9 × 9,0.82,1.00,-0.68,0.03,-0.39,-0.02
+Vegetation 9 × 9,-0.54,-0.68,1.00,-0.72,0.39,-0.02
+Bare 9 × 9,0.01,0.03,-0.72,1.00,-0.18,0.08
+Dist. urban,-0.32,-0.39,0.39,-0.18,1.00,0.26
+Dist. water,-0.02,-0.02,-0.02,0.08,0.26,1.00

@@ -1,0 +1,10 @@
+﻿"# Table S2. (a) Overall accuracy and kappa by epoch: final maps (P3) and the original assessment of the GEE classification before correction, at the original reference points"
+Epoch,Points (final),Final OA (%),Final κ,Before correction OA (%),Before correction κ
+1990,199,95.5,0.940,92.5ᵇ,0.900
+1995,195,97.4,0.966,92.0,0.893
+2000,197,96.4,0.953,93.0,0.907
+2005,199,96.5,0.953,94.5,0.927
+2010,198,93.4,0.912,95.0,0.933
+2015,198,96.5,0.953,90.0,0.867
+2020,199,96.5,0.953,92.0,0.893
+2025,199,88.9,0.853,90.0ᶜ,0.867

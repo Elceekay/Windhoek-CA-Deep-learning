@@ -1,0 +1,33 @@
+Figure1.png
+Figure 1: Study Area: Windhoek, Namibia
+
+Figure2.png
+Figure 2: Workflow of LULC mapping, model development, evaluation and scenario simulation
+
+Figure3.png
+Figure 3: Land use/land cover (LULC) of Windhoek, 1990–2025 (mapped areas calculated within the municipal extent; WGS 84/UTM zone 33S, coordinates in km). Numbers mark (1) Wanaheda, (2) Katutura, (3) Goreangab Dam, (4) the central business district, (5) Klein Windhoek and (6) Academia
+
+Figure4.png
+Figure 4: Urban extent of Windhoek in (a) 1990 and (b) 2025 (modelling mask; WGS 84/UTM zone 33S, coordinates in km). Areas printed in the panels are calculated within the modelling mask and therefore differ slightly from the municipal-extent values reported in Table 2 (37.86 and 117.41 km²).
+
+Figure5.png
+Figure 5: Hits, misses and false alarms of the CA-CNN (seed 42) for the withheld 2015–2020 transition (main test; modelling mask)
+
+Figure6.png
+Figure 6: Simulated urban extent in 2030, 2040 and 2050 under the central trend scenario, starting from the 2020 map: (a–c) CA-CNN, (d–f) CA-U-Net and (g–i) CA-LSTM-CNN (modelling mask)
+
+Figure7.png
+Figure 7: (a) Agreement among the CA-CNN, CA-U-Net and CA-LSTM-CNN on simulated new urban land, 2020–2050 (central trend scenario); (b) mapped municipal-extent urban area for 1990–2025, the 1990–2020 linear trend, conditional modelling-mask scenarios from 2020, and the independent 2025 area estimate with its 95% confidence interval
+
+Figure8.png
+Figure 8: Figure of Merit for urban gain in (a) the main test (withheld 2015–2020 transition) and (b) the secondary test (2020–2025). Filled circles: seed 42, with 95% block-bootstrap CI (4 km blocks) in the main test; open circles: seeds 1–3; diamonds: mean ± SD of four seeds; dotted line: logistic-regression CA
+
+FigureS1.png
+Figure S1. Training and tuning curves of (a–b) CA-CNN, (c–d) CA-U-Net and (e–f) CA-LSTM-CNN (seed 42) in the secondary-test design. Training used spatial blocks of the 1990–2015 transitions (CA-LSTM-CNN: 2000–2015); tuning used withheld blocks of the 2015–2020 transition; the 2025 map was not used. Dashed lines mark the epoch with the highest tuning AUC.
+
+FigureS2.png
+Figure S2. Spatial distribution of four of the predictors (2020): distance to existing urban land, urban neighbourhood density, vegetation neighbourhood density and distance to water bodies.
+
+FigureS3.png
+Figure S3. Correlogram of the residuals of the logistic-regression CA (observed 2015–2020 urban gain minus predicted probability), by distance between cells. The dashed line marks the 2 km block size used for the spatial tuning blocks and the secondary-test bootstrap; the main-test bootstrap used 4 km blocks, beyond which residual correlation remains weak but positive (r = 0.13 at 6 km).
+

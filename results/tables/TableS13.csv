@@ -1,0 +1,4 @@
+﻿"# Table S13. Independent 2025 sample with and without the 13 points flagged as uncertain by the interpreter (stratified estimators of Olofsson et al., 2014; municipal extent)"
+Sample,n,OA (%) ± 95% CI,Urban area (km²) ± 95% CI,Urban UA (%),Urban PA (%)
+All points,300,71.2 ± 6.1,96.43 ± 16.51,70.0,85.2
+Without the uncertain points,287,73.6 ± 5.9,98.24 ± 17.13,70.7,84.5

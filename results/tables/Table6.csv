@@ -1,0 +1,9 @@
+﻿"# Table 6: Urban-gain simulation skill (Figure of Merit) in the main test (withheld 2015–2020 transition; observed gain 15.54 km²) and the secondary test (2020–2025; observed gain 30.73 km²), both on the modelling mask, with the quantity of change fixed for all methods. Main-test CIs are 95% spatial block-bootstrap percentile intervals with 4 km blocks (2,000 resamples); secondary-test differences from the logistic-regression CA, with CIs from 2 km blocks, are given in Table S9"
+Method,"Main test: FoM, seed 42 (95% CI)","Main test: mean ± SD, 4 seeds","Main test: difference from logistic-regression CA, seed 42 (95% CI)",Main test: hits (km²),"Secondary test: FoM, seed 42","Secondary test: mean ± SD, 4 seeds"
+CA-CNN,0.202 (0.146–0.248),0.199 ± 0.007,−0.005 (−0.013 to +0.005),5.23,0.242,0.236 ± 0.009
+CA-U-Net,0.201 (0.146–0.244),0.197 ± 0.011,−0.006 (−0.017 to +0.005),5.20,0.240,– (one run)
+CA-LSTM-CNN,0.209 (0.153–0.253),0.206 ± 0.008,+0.002 (−0.006 to +0.010),5.37,0.221,0.237 ± 0.011
+Logistic-regression CA,0.207 (0.151–0.248),–,–,5.33,0.226,–
+Neighbourhood rule,0.192 (0.142–0.230),–,−0.015 (−0.024 to −0.004),5.00,0.202,–
+Random allocation,0.019 (0.015–0.022),–,−0.188 (−0.229 to −0.133),0.58,0.036,–
+Persistence,0,–,–,0,0,–

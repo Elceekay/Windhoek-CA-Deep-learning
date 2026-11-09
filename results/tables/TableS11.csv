@@ -1,0 +1,8 @@
+﻿"# Table S11. Logistic-regression diagnostics: penalised (original) and unpenalised coefficients, 2 km block-bootstrap 95% CIs (1,000 resamples) and VIF (transitions 1990–1995 to 2015–2020)"
+Predictor,"Original (L2, C = 1)",Unpenalised (95% CI),VIF
+"Urban density, 3 × 3",+1.666,+1.653 (1.407 to 2.164),2.99
+"Urban density, 9 × 9",+4.405,+4.428 (3.206 to 5.107),11.68
+"Vegetation density, 9 × 9",−1.056,−1.016 (−1.907 to −0.358),20.39
+"Bare-ground density, 9 × 9",+0.886,+0.920 (−0.117 to 1.529),11.11
+Distance to urban,−11.807,−12.075 (−15.385 to −9.256),1.34
+Distance to water,−1.575,−1.571 (−2.317 to −0.851),1.11

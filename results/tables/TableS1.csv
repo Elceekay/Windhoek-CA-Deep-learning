@@ -1,0 +1,10 @@
+﻿# Table S1. Spatial extents and class areas (km²). (a) Municipal extent (final maps; used for Table 2). (b) Correction mask (cells valid in all eight raw and final maps; 531.23 km²). The modelling mask (cells classified in all eight final maps; 533.63 km²) is used for all CA analyses (2025 urban area 117.12 km²; observed 2020–2025 gain 30.73 km²)
+Epoch,(a) Urban,Vegetation,Bare Ground,Water,Total,(b) Urban,Vegetation,Bare Ground,Water
+1990,37.86,432.26,62.51,1.28,533.91,37.46,430.25,62.25,1.27
+1995,39.75,444.76,46.59,2.87,533.97,39.34,442.97,46.08,2.84
+2000,51.94,424.24,53.39,4.40,533.97,51.44,422.38,53.06,4.36
+2005,67.56,418.96,40.44,7.01,533.97,66.83,417.32,40.13,6.95
+2010,81.49,378.31,72.47,1.69,533.96,80.57,376.93,72.06,1.67
+2015,88.40,403.21,41.08,1.29,533.98,87.27,401.87,40.83,1.26
+2020,94.82,360.63,73.94,4.30,533.69,93.91,359.40,73.66,4.26
+2025,117.41,367.85,48.08,0.64,533.98,116.06,366.66,47.88,0.63

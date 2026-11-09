@@ -1,0 +1,10 @@
+﻿"# Table S6. Computational comparison (seed 42; Google Colab standard CPU runtime, no GPU; batch size 256). Times from the training logs"
+,CA-CNN,CA-U-Net,CA-LSTM-CNN
+Trainable parameters,"102,881","1,951,124","238,689"
+Training patches (tuning run),"≈136,000","≈136,000","≈90,000"
+"Mean time per epoch, tuning run (s)",192 (533 batches),"1,460 (533 batches)",117 (352 batches)
+Epochs run / selected,15 / 9,10 / 4,10 / 4
+Total tuning-run time (min),48,243,20
+Final refit for 2030–2050 (min),46 (9 epochs × 304 s),"159 (4 epochs × 2,380 s)",15 (4 epochs × 226 s)
+Peak memory (GB)ᵃ,2.7,–,–
+"Inference time per 100,000 cells (s)",35–40,–,35–37

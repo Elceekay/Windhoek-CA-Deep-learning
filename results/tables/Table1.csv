@@ -1,0 +1,10 @@
+﻿"# Table 1: Landsat data used (Collection 2, Level-2 surface reflectance, 30 m)"
+Study Year,Sensor,GEE Collection,Acquisition Period
+1990,Landsat 5 TM,LANDSAT/LT05/C02/T1_L2,Dry season (May–Oct)
+1995,Landsat 5 TM,LANDSAT/LT05/C02/T1_L2,Dry season (May–Oct)
+2000,Landsat 7 ETM+,LANDSAT/LE07/C02/T1_L2,Dry season (May–Oct)
+2005,Landsat 7 ETM+,LANDSAT/LE07/C02/T1_L2,Dry season (May–Oct)
+2010,Landsat 7 ETM+,LANDSAT/LE07/C02/T1_L2,"Apr, Oct, Nov (transitional)"
+2015,Landsat 8 OLI,LANDSAT/LC08/C02/T1_L2,Dry season (May–Oct)
+2020,Landsat 8 OLI,LANDSAT/LC08/C02/T1_L2,Dry season (May–Oct)
+2025,Landsat 9 OLI-2,LANDSAT/LC09/C02/T1_L2,Dry season (May–Oct)
